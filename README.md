@@ -1,1 +1,3 @@
-Projeto de estudo pela Udemy para criar página html e hospedar gratuitamente, porém este não foi acrescentado a extensão (nome.io)
+### Metal Omega Projects
+
+- Aula prática na Udemy ensinando a criar e hospedar uma página html gratuitamente no gitpages, sendo o endereço (nomedoprojeto.io)
