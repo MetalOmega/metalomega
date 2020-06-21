@@ -1,3 +1,4 @@
-### Metal Omega Projects
-
-- Aula prática na Udemy ensinando a criar e hospedar uma página html gratuitamente no gitpages, sendo o endereço (nomedoprojeto.io)
+# metalomega.github.io
+Curso pela Udemy de como criar site html e hospedar online gratuitamente
+<br />
+https://metalomega.github.io
