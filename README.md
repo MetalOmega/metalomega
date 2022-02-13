@@ -1,7 +1,7 @@
 # Metal Omega
 
  <div>
-  <a href="https://linktr.ee/metalomega">
+  <a href="https://linktr.ee/metalomegadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metalomega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metalomega&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -20,7 +20,7 @@
   <a href="https://instagram.com/metalomega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/6wcAYmYCky" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:metalomega@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelafs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/rafaelafs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
   
@@ -50,7 +50,7 @@ Redes sociais - Metal Omega na Web:
 <br />
 Linktree Metal Omega
 <br />
-https://linktr.ee/metalomega
+https://linktr.ee/metalomegadev
 <br />
 Instagram Metal Omega
 <br />
@@ -62,7 +62,7 @@ http://twitter.com/metalomega
 <br />
 LinkedIn Metal Omega
 <br />
-https://www.linkedin.com/in/rafaelafs/
+https://br.linkedin.com/in/rafaelafs/
 <br />
 YouTube Metal Omega
 <br />
@@ -74,11 +74,11 @@ http://www.reddit.com/user/MetalOmega1
 <br />
 Facebook Metal Omega
 <br />
-http://www.facebook.com/metalomega
+http://www.facebook.com/metalomegadev
 <br />
 Página Facebook Metal Omega
 <br />
-http://www.facebook.com/metalomegaservice
+http://www.facebook.com/pagemetalomegadev
 <br />
 Grupo Facebook Metal Omega
 <br />
