@@ -17,7 +17,7 @@
 ##
   <div> 
   <a href="https://www.youtube.com/channel/metalomega9" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/metalomega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/metalomegadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/6wcAYmYCky" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:metalomega@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/rafaelafs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -54,15 +54,15 @@ https://linktr.ee/metalomegadev
 <br />
 Instagram Metal Omega
 <br />
-https://instagram.com/metalomega
+https://instagram.com/metalomegadev
 <br />
 Twitter Metal Omega
 <br />
-http://twitter.com/metalomega
+http://twitter.com/metalomegadev
 <br />
 LinkedIn Metal Omega
 <br />
-https://br.linkedin.com/in/rafaelafs/
+https://br.linkedin.com/in/rafaelafs
 <br />
 YouTube Metal Omega
 <br />
