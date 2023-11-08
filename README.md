@@ -1,5 +1,6 @@
 # Metal Omega
-
+Olá, eu sou Rafael, meu nick name é Metal Omega!
+Desde criança eu tenho contato com o computador, antes mesmo do ambiente gráfico do Windows. Eu apreciava como o meu avô operava essa máquina na tela preta, letras verdes, nomenclaturas tais que eu não entendia o que era, para que era e o que fazia. Hoje, já adulto, e sem o meu avô neste plano, aqui estou eu na busca de dominar essa máquina, as letras, formar uma harmonia e uma aplicação que, não só funcione, mas que resolva problemas.
  <div>
   <a href="https://linktr.ee/metalomegadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metalomega&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
