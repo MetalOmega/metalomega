@@ -29,7 +29,7 @@ Desde criança eu tenho contato com o computador, antes mesmo do ambiente gráfi
  ##
 -----------------------
 ## metalomega.github.io
-Curso pela SatellaSoft Academy - Bootcamp iniciado em maio de 2020
+Curso pela SatellaSoft Academy - Bootcamp iniciado em maio de 2020 e finalizado em dezembro de 2020
 <br />
 https://academy.satellasoft.com
 <br />
@@ -93,50 +93,11 @@ Twitch Metal Omega
 <br />
 https://www.twitch.tv/metalomega
 <br />
-Shawee Metal Omega
-<br />
-https://app.shawee.io/@metalomega
-<br />
 Behance Metal Omega
 <br />
 https://www.behance.net/metalomega
-<br />
-Dribbble Metal Omega
-<br />
-https://dribbble.com/MetalOmega
-<br />
-Figma Metal Omega
-<br />
-https://www.figma.com/files/user/835659377098647585/MetalOmega
-<br />
-Trello Metal Omega
-<br />
-https://trello.com/metalomega/
-<br />
-Gonconqr Metal Omega
-<br />
-https://www.goconqr.com/pt-BR/profiles/8772185
-<br />
-Miro Metal Omega
-<br />
-https://miro.com/app/settings/team/3074457347745822688/profile
-<br />
-Mindomo Metal Omega
-<br />
-https://www.mindomo.com/pt/profile/id/AFmKX
-<br />
-Scrathc Metal Omega
-<br />
-https://scratch.mit.edu/users/MetalOmega/
-<br />
-Pinterest Metal Omega
-<br />
-https://br.pinterest.com/metalomega
 <br />
 Medium Metal Omega
 <br />
 https://medium.com/@metalomega
 <br />
-Mercado Livre Metal Omega
-<br />
-http://perfil.mercadolivre.com.br/METAL+OMEGA
