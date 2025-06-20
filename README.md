@@ -39,8 +39,6 @@ https://metalomega.github.io/
 <br />
 https://metalomega.surge.sh/
 <br />
-https://metalomega.000webhostapp.com/semana03-exercicios-html-css/index.html
-<br />
 <br />
 Contato:
 <br />
